@@ -211,17 +211,17 @@ It includes:
 ### Hospital Performance Overview
 
 ![Hospital Performance Overview]<img width="962" height="680" alt="Screenshot 2026-09-22 224146" src="https://github.com/user-attachments/assets/52141261-662c-4082-abdb-a87908492752" />
-.png)
+
 
 ### Patient Outcomes & Readmissions
 
 ![Patient Outcomes & Readmissions](<img width="783" height="665" alt="Screenshot 2026-09-22 224234" src="https://github.com/user-attachments/assets/d16d9285-6c8a-4e87-90db-2056a22a149f" />
-.png)
+
 
 ### Performance Benchmarks & Rankings
 
 ![Performance Benchmarks & Rankings](<img width="945" height="748" alt="Screenshot 2026-09-22 224533" src="https://github.com/user-attachments/assets/29727a18-358e-40d5-97e5-16571287b76e" />
-.png)
+
 
 ---
 
